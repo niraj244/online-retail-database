@@ -33,7 +33,7 @@ Sample business questions answered using SQL:
 5. How many orders were placed in January 2023? → 5
 
 ## Schema Overview
-[include ER diagram image here]
+![ER Diagram](docs/er_diagram.png)
 
 ## Team
 Built collaboratively by 6 CS students as part of WPU CS260.
